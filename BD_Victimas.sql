@@ -132,3 +132,7 @@ LIMIT 10;
 
 
 -- Esta ultima consulta nos servira para saber en que colonia de que ciudad o municipio tiene mayor indice de delitos reportados y de mayor gravedad, para asi poder asignar una mayor cantidad de recursos de seguridad.
+
+
+
+-- asdasdasd
